@@ -67,7 +67,7 @@ Fill out the booking form and click **Book Now** to receive your booking confirm
 
 ## 👥 Contributors
 - **Main Lead:** Muaaz Bin Salman  
-- **Co-Authors:** Momna Jamil, Sofia Faisal
+- **Co-Authors:** Momna Jamil, Sofia Faisal, Rabiya Tahir
 
 ## 🎯 Contributing
 Contributions, improvements, or feedback are highly welcome. To contribute:
